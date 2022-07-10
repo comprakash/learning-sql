@@ -1,9 +1,9 @@
 # Learning SQL
 Learning SQL using PostgreSQL
 
-## Install latest PostgreSQL and pgAdmin
+## Install latest PostgreSQL and Azure Data Studio
 - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
-- [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
+- [https://azure.microsoft.com/en-us/services/developer-tools/data-studio/](https://azure.microsoft.com/en-us/services/developer-tools/data-studio/)
 
 ## Setup Sample Database
 
